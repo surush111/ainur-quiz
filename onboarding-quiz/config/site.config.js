@@ -21,7 +21,7 @@ export const siteConfig = {
     title: "PDF-гайд «5 рабочих способов начать зарабатывать онлайн в 2026 году»",
     // ЗАГЛУШКА: замените на реальную ссылку на файл (например, с Vercel Blob,
     // Google Drive с открытым доступом или вашего хостинга).
-    fileUrl: "https://drive.google.com/file/d/13Dwwq5BwmpTeM5MXZ7_OcK-TWaH4xy5_/view?usp=sharing",
+    fileUrl: "https://drive.google.com/file/d/13Dwwq5BwmpTeM5MXZ7_OcK-TWaH4xy5_/view?usp=drivesdk",
   },
 
   // Вводный текст на первом экране
